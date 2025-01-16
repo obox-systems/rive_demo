@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-rive-rs = { path = "rive-rs/rive-rs", features = [ "vello" ] }
+rive-rs = { path = "submodules/rive-rs/rive-rs", features = [ "vello" ] }
 vello = { git = "https://github.com/linebender/vello", rev = "ee3a076" }
 wgpu = "0.17.2"
 winit = { version = "0.30.8", features = [ "rwh_05" ] }

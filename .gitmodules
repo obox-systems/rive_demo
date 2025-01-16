@@ -1,3 +1,7 @@
-[submodule "rive-rs"]
-  path = rive-rs
+[submodule "submodules/rive-rs"]
+  path = submodules/rive-rs
   url = https://github.com/rive-app/rive-rs
+[submodule "submodules/yoga"]
+	path = submodules/yoga
+	url = https://github.com/facebook/yoga
+	branch = release-v2.0
