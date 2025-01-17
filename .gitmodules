@@ -1,0 +1,3 @@
+[submodule "submodules/rive-rs"]
+	path = submodules/rive-rs
+	url = https://github.com/rive-app/rive-rs
