@@ -2,6 +2,11 @@
 
 Example of integration Rive animation to rust program.
 
+## Showcase
+![](./showcase.gif)
+
+## How to run
+
 1. Clone the repo:
 ```bash
 git clone --recurse-submodules https://github.com/obox-systems/rive_demo.git
